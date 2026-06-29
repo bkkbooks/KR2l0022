@@ -1,0 +1,60 @@
+canonical_identifier: bkk:krp/KR2l0022/v1
+canonical_location: https://kanripo.org/bkk/KR2l0022/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 御定人臣儆心錄
+  date: '2015-08-24 22:48:45.593420'
+  source:
+    repository: kanripo
+    path: KR2l0022
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2l0022_000.yaml, hash: 'sha256:4258778bdf2031cece9bc14d6bea07ac440516ebe9271a87f97f4e72f6f763a3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2l0022_000.markers.yaml, hash: 'sha256:bd352dcee169e2a6dfe7cddd2777c79c14813f9071d2d7882faa2b0239311489'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2l0022_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 312
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2l0022_WYG_000-3a
+    span:
+    - body
+    - 312
+    - 814
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2l0022_WYG_000-6a
+    span:
+    - body
+    - 814
+    - 5986
+  label: 御定人臣儆心録
+  type: section
+  level: 1
+hash: sha256:67b882f91ebd37b154e4fa96f1a530df3f3a7fb715569c1f036db8906e93704f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
