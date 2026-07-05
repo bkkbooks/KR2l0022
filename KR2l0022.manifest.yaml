@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2l0022_000.yaml, hash: 'sha256:4258778bdf2031cece9bc14d6bea07ac440516ebe9271a87f97f4e72f6f763a3'}
+  - {seq: 0, filename: KR2l0022_000.yaml, hash: 'sha256:4e7f0fcf7fcbaa79026d168b97eb5eed324f587e458e9b61e8397e108fa81754'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2l0022_000.markers.yaml, hash: 'sha256:bd352dcee169e2a6dfe7cddd2777c79c14813f9071d2d7882faa2b0239311489'}
+  - {seq: 0, role: markers, filename: assets/KR2l0022_000.markers.yaml, hash: 'sha256:fc01000f5a92fa6e59f5d89a01263b262fffb2f483582fd5ef461452bab8e116'}
 table_of_contents:
 - ref:
     seq: 0
@@ -54,7 +54,4 @@ table_of_contents:
   label: 御定人臣儆心録
   type: section
   level: 1
-hash: sha256:67b882f91ebd37b154e4fa96f1a530df3f3a7fb715569c1f036db8906e93704f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:65c8ea1aba6362abf38375b4f07fbb7643813bac686f3a3eeef481c89df36e2e
