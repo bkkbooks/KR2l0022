@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2l0022/v1
 canonical_location: https://kanripo.org/bkk/KR2l0022/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 御定人臣儆心錄
   date: '2015-08-24 22:48:45.593420'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2l0022_000.yaml, hash: 'sha256:4e7f0fcf7fcbaa79026d168b97eb5eed324f587e458e9b61e8397e108fa81754'}
+  - {seq: 0, filename: KR2l0022_000.yaml, hash: 'sha256:3e82d886d32b9e93fe684cb1b87ee0f0e50855fb9b13b4105ecfa92ac8005692'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2l0022_000.markers.yaml, hash: 'sha256:fc01000f5a92fa6e59f5d89a01263b262fffb2f483582fd5ef461452bab8e116'}
+  - {seq: 0, role: markers, filename: assets/KR2l0022_000.markers.yaml, hash: 'sha256:207e4e25aa449aad510a5816a6df245ec89b71031cdb926953c851291f0fa4c9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -54,4 +54,7 @@ table_of_contents:
   label: 御定人臣儆心録
   type: section
   level: 1
-hash: sha256:65c8ea1aba6362abf38375b4f07fbb7643813bac686f3a3eeef481c89df36e2e
+hash: sha256:72c333967f81e4802bf4988dc9b342d8a0d1c58fd46ac879abda8653cdaf17d0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
