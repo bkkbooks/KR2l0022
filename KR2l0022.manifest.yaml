@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2l0022_000.yaml, hash: 'sha256:3e82d886d32b9e93fe684cb1b87ee0f0e50855fb9b13b4105ecfa92ac8005692'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2l0022_000.markers.yaml, hash: 'sha256:207e4e25aa449aad510a5816a6df245ec89b71031cdb926953c851291f0fa4c9'}
+  - {seq: 0, role: markers, filename: assets/KR2l0022_000.markers.yaml, hash: 'sha256:665b308a1331f8aa5675dd0ad98878b0455f51b9df2cd118445fb7bd759efb9f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -54,7 +54,7 @@ table_of_contents:
   label: 御定人臣儆心録
   type: section
   level: 1
-hash: sha256:72c333967f81e4802bf4988dc9b342d8a0d1c58fd46ac879abda8653cdaf17d0
+hash: sha256:a49374041c2c7d18e4e38e70ca16719b43f2be6d9fc853f4629acfeeb99c89c4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

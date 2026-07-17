@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2l0022_000-WYG.yaml, hash: 'sha256:562876f1b29fd2751d20fff6d0e9a0d8dde8458aef89cf582a223d8d0bdc861f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2l0022_000-WYG.markers.yaml, hash: 'sha256:15ae21d7868508c41ecddc6411005de8c4cf7c8348ebfba3eb1f44fcb76beddb'}
+  - {seq: 0, role: markers, filename: assets/KR2l0022_000-WYG.markers.yaml, hash: 'sha256:b8181929a026ed5013c2f18574fa594536b26b9ccca3928f9d960e9a42581b86'}
 table_of_contents:
 - ref:
     seq: 0
@@ -51,4 +51,4 @@ table_of_contents:
   label: 御定人臣儆心録
   type: section
   level: 1
-hash: sha256:39463097b0840c33ae626847d08cee8150cd9d17a57d0c3acf5022895225854d
+hash: sha256:33d137e5db3c6f41c228a1f75ea17a58e96f04ea9598d7b2e45e1ab923e50df8
